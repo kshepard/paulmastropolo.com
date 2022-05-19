@@ -10,4 +10,4 @@ The best I can do is say, "My Friend", love you Paul,
 
 Joe Spinella
 
-![Paul and Anna](/assets/paul_and_joe.webp)
+![Paul and Anna](assets/paul_and_joe.webp)

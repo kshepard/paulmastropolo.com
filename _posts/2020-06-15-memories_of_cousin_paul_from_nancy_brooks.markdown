@@ -10,4 +10,4 @@ Throughout our youth and until the day he left this earthly abode  he brought jo
   
 Be at peace now with your lovely Laurie, dear cousin.  I will truly miss you!
 
-![Memories of cousin Paul](/assets/memories_of_cousin_paul.webp)
+![Memories of cousin Paul](assets/memories_of_cousin_paul.webp)
