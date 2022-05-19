@@ -18,4 +18,4 @@ My daughter Camille was born in September of 2019. Dad came down to Philadelphia
 
 When we learned the cancer he’d had for years had started to advance, Kenny, Camille and I moved in with Dad in Bristol. Though he was a bit limited by then, we were still able to enjoy stroller walks along the Farmington River, and dinners out on the back porch. We read and watched Netflix. He dusted off his harmonica for Camille. It felt like a vacation, almost. The memory of those last two and a half months with him is a gift I will carry with me forever.  
 
-![Paul and Camille](assets/paul_and_camille.webp)
+![Paul and Camille]({{ 'assets/paul_and_camille.webp' | relative_url }})
